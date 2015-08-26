@@ -1,1 +1,0 @@
-helloweb: mvn jetty:run
